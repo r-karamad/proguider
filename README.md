@@ -1,2 +1,2 @@
 # proguider
-This repo contains code sources to deploy an API and a custom Terraform plugin.
+This repo contains a saource code to deploy an API and a custom Terraform plugin.
