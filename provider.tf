@@ -1,4 +1,1 @@
-provider "aws" {
-  region = "eu-central-1"
-  alias  = "global"
-}
+provider "aws" {}
