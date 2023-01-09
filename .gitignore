@@ -7,3 +7,4 @@
 *.pem
 
 tokens.json
+auth.json
