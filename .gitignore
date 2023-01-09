@@ -5,3 +5,5 @@
 *.tfstate.backup
 
 *.pem
+
+tokens.json
